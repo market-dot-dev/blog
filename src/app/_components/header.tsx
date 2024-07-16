@@ -2,11 +2,14 @@ import Link from "next/link";
 
 const Header = () => {
   return (
-    <h2 className="text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-20 mt-8 flex items-center">
-      <Link href="/" className="hover:underline">
+    <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
+      <Link href="/" className="text-3xl font-bold tracking-tighter leading-tight md:pr-8">
         Gitwallet Blog
       </Link>
-    </h2>
+      <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
+        Updates from the team building Gitwallet.
+      </h4>
+    </section>
   );
 };
 
