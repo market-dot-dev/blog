@@ -22,12 +22,12 @@ Gitwallet is an exploration of these problem spaces.
 
 We believe serious open source teams need new tools - to help them build strong businesses and ecosystems around their projects. We believe in bringing together maintainers and the companies that depend on their software in new ways. And we don’t have to *believe* that the means of making software itself being transformed - that’s already happening in front of us. We’re entering a brave new world.
 
-We’re launching our platform today with a simple premise - to help anyone build a business around an open source project. With Gitwallet, you can quickly
+We’re launching our platform today with a simple premise - to help anyone build a business around an open source project. With Gitwallet, you can quickly:
 
-**Set up a commercial offering** tied to a GitHub project, like paid support, consulting or training.
-**Promote your services** with customizable landing Pages & embeds.
-**Understand how people are using your open source**, using new research and analytics tools.
-**Manage & grow your customer base** with light CRM & reporting built in.
+1. Set up a commercial offering tied to a GitHub project, like paid support, consulting or training.
+2. Promote your commercial services with customizable landing Pages & embeds.
+3. Understand how people are using your open source, using new research and analytics tools.
+4. Manage & grow your customer base with built-in CRM & reporting tools.
 
 Over time, we hope to enable more projects to become successful businesses, and enable new types of relationships between open source teams and the companies that rely on them.
 
