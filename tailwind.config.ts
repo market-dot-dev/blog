@@ -27,6 +27,9 @@ const config: Config = {
       letterSpacing: {
         tighter: "-.04em",
       },
+      fontFamily: {
+        sans: ["Inter", "ui-sans-serif", "system-ui"],
+      },
       fontSize: {
         "5xl": "2.5rem",
         "6xl": "2.75rem",
