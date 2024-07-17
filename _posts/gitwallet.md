@@ -12,7 +12,7 @@ ogImage:
 
 Today, we’re launching a new platform for developers to launch & grow a business alongside an open source project. It’s called [**Gitwallet**](https://www.gitwallet.co), and you can start using it today at [**https://app.gitwallet.co**](https://app.gitwallet.co).
 
-Today, it’s easier than ever to share your code, build in teams and invite contributors. The real challenge starts when you want to build a community and turn a successful project into something _more_. Growing ecosystems and businesses are looking for more to help them with analytics, commerce and community growth.
+Today, it’s easier than ever to share your code, build in teams and invite contributors. The real challenge starts when you want to build a community and turn a project into something _more_. Open source builders and teams now need help with analytics, community growth and tools for commerce. 
 
 Gitwallet will explore these problem spaces. We’re launching our platform today with a simple premise - to help anyone build a business around an open source project. With Gitwallet, you can quickly:
 
