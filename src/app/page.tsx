@@ -18,10 +18,10 @@ export default async function Index() {
           {/* Left Column */}
           <div className="md:fixed top-0 left-0 w-full md:w-2/5 h-full bg-slate-800 text-slate-50 flex flex-col justify-center p-8 lg:py-32 xl:px-32" style={{ backgroundImage: "url(/assets/blog/voronoi.png)" }}>
             <section className="flex-col flex">
-              <Link href="/" className="text-2xl md:text-3xl text-center md:text-left font-bold tracking-tighter leading-tight md:pr-8">
-                Gitwallet Changelog
+              <Link href="/" className="text-xl md:text-2xl text-center md:text-left font-bold tracking-tight leading-tight md:pr-8 font-mono mb-2">
+                Changelog
               </Link>
-              <h4 className="text-center md:text-left text-lg">
+              <h4 className="text-center md:text-left text-md md:text-lg font-extralight">
                 Updates from the team building Gitwallet.
               </h4>
             </section>
