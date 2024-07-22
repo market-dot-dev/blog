@@ -2,7 +2,7 @@
 title: "Introducing Gitwallet"
 excerpt: "Today, we’re launching a new project for developers to launch & grow a business alongside an open source project. It’s called Gitwallet."
 coverImage: "/assets/blog/covers/1.jpg"
-date: "2024-07-16T05:35:07.322Z"
+date: "2024-07-20T05:35:07.322Z"
 author:
   name: Tarun Sachdeva
   picture: "/assets/blog/authors/tarun.png"
