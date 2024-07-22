@@ -10,9 +10,9 @@ ogImage:
   url: "/assets/blog/covers/1.jpg"
 ---
 
-Today, we’re launching a new platform for developers to launch & grow a business alongside an open source project. It’s called [**Gitwallet**](https://www.gitwallet.co), and you can start using it today at [**https://app.gitwallet.co**](https://app.gitwallet.co).
+Today, we’re launching a new platform for developers to launch & grow a business alongside an open source project. It’s called [**Gitwallet**](https://www.gitwallet.co), and you can use it now at [**https://app.gitwallet.co**](https://app.gitwallet.co).
 
-Today, it’s easier than ever to share your code, build in teams and invite contributors. The real challenge starts when you want to build a community and turn a project into something _more_. Open source builders and teams now need help with analytics, community growth and tools for commerce. 
+It’s easier than ever to share your code, build in teams and invite contributors. The real challenge starts when you want to build a community and turn a project into something _more_. Open source builders and teams now need help with analytics, community growth and tools for commerce. 
 
 Gitwallet will explore these problem spaces. We’re launching our platform today with a simple premise - to help anyone build a business around an open source project. With Gitwallet, you can quickly:
 
@@ -27,4 +27,4 @@ Over time, we hope to enable more projects to become successful businesses, and 
 
 If you’re interested in what we’re building, check out [**www.gitwallet.co**](https://www.gitwallet.co), join our [**Discord**](https://discord.gg/ZdSpS4BuGd), or find us on X as [**@gitwallet**](https://x.com/gitwallet). 
 
-Tarun ([**@tarunsachdeva**](https://x.com/tarunsachdeva)). 
+Tarun ([**@tarunsachdeva**](https://x.com/tarunsachdeva)).
