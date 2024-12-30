@@ -20,3 +20,8 @@
 .markdown ol {
   @apply list-decimal pl-6;
 }
+
+.markdown ul { 
+  @apply list-disc;
+  @apply ml-6;
+}
