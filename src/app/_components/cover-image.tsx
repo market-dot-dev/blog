@@ -9,7 +9,21 @@ type Props = {
 };
 
 const CoverImage = ({ title, src, slug }: Props) => {
-  const image = (
+  const isVideo = src.toLowerCase().endsWith('.mp4');
+
+  const media = isVideo ? (
+    <video
+      src={src}
+      title={`Cover Video for ${title}`}
+      autoPlay
+      muted
+      playsInline
+      loop
+      className={cn("shadow-sm mx-auto w-full max-w-[800px]", {
+        "hover:shadow-lg transition-shadow duration-200": slug,
+      })}
+    />
+  ) : (
     <Image
       src={src}
       alt={`Cover Image for ${title}`}
@@ -20,14 +34,15 @@ const CoverImage = ({ title, src, slug }: Props) => {
       height={500}
     />
   );
+
   return (
     <div className="sm:mx-0">
       {slug ? (
         <Link href={`/posts/${slug}`} aria-label={title}>
-          {image}
+          {media}
         </Link>
       ) : (
-        image
+        media
       )}
     </div>
   );
