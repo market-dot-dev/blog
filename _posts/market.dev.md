@@ -1,5 +1,5 @@
 ---
-title: "Introducing market.dev"
+title: "We're now market.dev"
 excerpt: "Today, we're changing our name to market.dev and expanding our product footprint."
 coverImage: "/assets/blog/covers/market-dev-logo.png"
 date: "2025-02-20T05:35:07.322Z"
