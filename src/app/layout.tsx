@@ -9,8 +9,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Gitwallet Blog`,
-  description: `Updates from the team building Gitwallet`,
+  title: `market.dev blog`,
+  description: `Occasional Updates from the team building market.dev`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },

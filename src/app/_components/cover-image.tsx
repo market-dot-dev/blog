@@ -19,7 +19,7 @@ const CoverImage = ({ title, src, slug }: Props) => {
       muted
       playsInline
       loop
-      className={cn("shadow-sm mx-auto w-full max-w-[800px]", {
+      className={cn("shadow-sm mx-auto w-full max-w-[800px] rounded-xl", {
         "hover:shadow-lg transition-shadow duration-200": slug,
       })}
     />
@@ -27,7 +27,7 @@ const CoverImage = ({ title, src, slug }: Props) => {
     <Image
       src={src}
       alt={`Cover Image for ${title}`}
-      className={cn("shadow-sm mx-auto", {
+      className={cn("shadow-sm mx-auto rounded-xl", {
         "hover:shadow-lg transition-shadow duration-200": slug,
       })}
       width={800}
