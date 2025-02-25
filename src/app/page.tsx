@@ -33,7 +33,7 @@ export default async function Index() {
                 </div>
               </div>
               <h4 className="text-center md:text-left text-md md:text-lg font-extralight">
-                Updates from the team building Gitwallet. 
+                Updates from the team building market.dev. 
               </h4>
             </section>
           </div>
