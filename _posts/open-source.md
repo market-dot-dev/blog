@@ -10,12 +10,10 @@ ogImage:
   url: "/assets/blog/covers/1.jpg"
 ---
 
-I'm excited to announce that **market.dev is now fully open source** under an MIT License.
+I'm excited to announce that **market.dev is now fully open source** under the MIT License.
 
-Our goal is to help developers become independent business owners, and many of our customers are already active in open source. Our platform helps developers monetize their open source projects, and now the platform itself joins that ecosystem. 
+Our goal is to help developers become independent business owners, and many of our customers are already active in open source. Our platform already helps developers monetize their open source projects, and we're happy to join the community. By open sourcing our platform, we're not just sharing code – we're inviting the entire developer community to help shape the future of our platform. 
 
-Transparency and community-driven development are fundamental to what we're doing. By open sourcing our platform, we're not just sharing code – we're inviting the entire developer community to help shape the future of our platform. 
-
-If you're interested, check out the code on [GitHub](https://github.com/market-dot-dev/store). If you're interested in contributing, feel free to go through our issues list to pick something off, or add something of your own.
+If you're interested, **[check out the code on GitHub](https://github.com/market-dot-dev/store)**. If you're interested in contributing, feel free to go through our issues list to pick something off, or add something of your own.
 
 For existing users, nothing changes. We're still building and working on market.dev - now, in the open.
