@@ -2,7 +2,7 @@
 title: "Market.dev is now open source"
 excerpt: "Today, we're open sourcing our entire codebase under the MIT License."
 coverImage: "/assets/blog/covers/open-source.png"
-date: "2025-01-20T05:35:07.322Z"
+date: "2025-06-20T05:35:07.322Z"
 author:
   name: Tarun Sachdeva
   picture: "/assets/blog/authors/tarun.png"
