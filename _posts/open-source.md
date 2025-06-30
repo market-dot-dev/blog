@@ -2,7 +2,7 @@
 title: "Market.dev is now open source"
 excerpt: "Today, we're open sourcing our entire codebase under the MIT License."
 coverImage: "/assets/blog/covers/open-source.png"
-date: "2025-06-20T05:35:07.322Z"
+date: "2025-06-30T05:35:07.322Z"
 author:
   name: Tarun Sachdeva
   picture: "/assets/blog/authors/tarun.png"
@@ -10,12 +10,8 @@ ogImage:
   url: "/assets/blog/covers/1.jpg"
 ---
 
-I'm excited to announce that **market.dev is now fully open source** under an AGPLv3 License.
+Today we're announcing that **market.dev is now open source** under an AGPLv3 License. We'll maintain a hosted version on market.dev, along with a new simpler pricing plan.
 
-Our goal is to help developers become independent business owners, and many of our customers are already active in open source communities as maintainers, freelancers, and consultants.
+Our goal is to help developers become independent business owners, and many of our ccustomers are already active in open source communities as maintainers, freelancers, and consultants. Building alongside our customers in the open only makes sense, and it also gives us to provide customers with a new way to shape our product - by filing a PR directly!
 
- By open sourcing our platform, we're not just sharing code – we're inviting our community to help shape the future of the platform.
-
-If you're interested, **[check out the code on GitHub](https://github.com/market-dot-dev/store)**. If you're interested in contributing, feel free to go through our issues list to pick something off, or add something of your own.
-
-For existing users, nothing changes. We're still building and working on market.dev - now, in the open.
+More than anything, I'm excited about everything we'll learn about building market.dev in the open. If you're interested in contributing, **[check out the code on GitHub](https://github.com/market-dot-dev/)**.
