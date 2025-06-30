@@ -14,4 +14,4 @@ Today we're announcing that **market.dev is now open source** under an AGPLv3 Li
 
 Our goal is to help developers become independent business owners, and many of our ccustomers are already active in open source communities as maintainers, freelancers, and consultants. Building alongside our customers in the open only makes sense, and it also gives us to provide customers with a new way to shape our product - by filing a PR directly!
 
-More than anything, I'm excited about everything we'll learn about building this in the open. If you're interested in contributing, **[check out the code on GitHub](https://github.com/market-dot-dev/)**.
+More than anything, I'm excited about everything we'll learn about building in the open. If you're interested in contributing, **[check out the code on GitHub](https://github.com/market-dot-dev/)**.
