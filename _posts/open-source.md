@@ -12,6 +12,10 @@ ogImage:
 
 Today we're announcing that **market.dev is now open source** under an AGPLv3 License. We'll maintain a hosted version on market.dev, along with a new simpler pricing plan.
 
-Our goal is to help developers become independent business owners, and many of our ccustomers are already active in open source communities as maintainers, freelancers, and consultants. Building alongside our customers in the open only makes sense, and it also gives us to provide customers with a new way to shape our product - by filing a PR directly!
+We're doing this for two reasons: to create a faster path for community contributions, and enable self hosting.
 
-More than anything, I'm excited about everything we'll learn about building in the open. If you're interested in contributing, **[check out the code on GitHub](https://github.com/market-dot-dev/)**.
+Building alongside our customers in the open only makes sense, and it also gives us to provide customers with a new way to shape our product - by filing a PR directly. We'll also be issuing a few bounties soon.
+
+Our goal with self hosting is to be the back office for your personal website. We want to power *app.yoursite.com* for every freelancer, consultant or anyone offering developer services.
+
+More than anything, I'm excited about everything we'll learn about building in the open. If you're interested in contributing, **[check out the code on GitHub](https://github.com/market-dot-dev/)** and Star one of our repos!
